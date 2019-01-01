@@ -1,2 +1,3 @@
-# MCDO
-A pytorch implementation of Monte-Carlo Dropout methods
+# MCDO style Bayesian CNN
+
+A pytorch implementation of [MCDO style Bayesian CNN ](https://arxiv.org/abs/1506.02158).
