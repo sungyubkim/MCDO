@@ -1,3 +1,7 @@
-# MCDO style Bayesian CNN
+# Monte-Carlo Dropout and its variants
 
-A pytorch implementation of [MCDO style Bayesian CNN ](https://arxiv.org/abs/1506.02158).
+A pytorch implementation of MCDO variants
+
+* Bayesian CNN with Dropout
+* Concrete Dropout
+* Variational Dropout
